@@ -10,3 +10,4 @@ cout << "hello World " << name2 << endl;
 cout << "This hot weather makes me sleep all the time."<< endl<<"Newsha Niazmandi"<< endl;
 return 0;
 }
+Edits made - Lena Baghdadi
