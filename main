@@ -1,5 +1,5 @@
 Test using GITHUB
-// Lena Baghdadi
+// Lena Baghdadi; Newsha Niazmandi
 // Description: Lab 3: Hello World
 //============================================================
 ================
@@ -17,3 +17,4 @@ int main()
   hello2Function(name2);
   return 0;
 }
+Edits made -Lena Baghdadi
