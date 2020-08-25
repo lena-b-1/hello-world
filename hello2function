@@ -7,7 +7,7 @@ using namespace std;
 int hello2Function(string name2)
 {
 cout << "hello World " << name2 << endl;
-
+cout <<"This is Newsha Niazmandi's edit";
 return 0;
 }
 
